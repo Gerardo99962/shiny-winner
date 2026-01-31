@@ -1,1 +1,3 @@
-# shiny-winner
+/docs
+  ethics.md
+  # shiny-winner
